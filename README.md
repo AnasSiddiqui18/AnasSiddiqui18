@@ -2,7 +2,7 @@
 <h3 align="center">"Passionate frontend developer crafting seamless user experiences through code and creativity."</h3>
 <hr/>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
