@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Fullstack Projects**
 
 - 💬 Ask me about **TailwindCss, Css, Chakra,**
 
