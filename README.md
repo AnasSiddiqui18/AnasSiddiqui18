@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **anassiddiqui0910@gmail.com**
 
+<a href="https://app.daily.dev/anassiddiqui18"><img src="https://api.daily.dev/devcards/v2/YhoSvqiCHEBD1LGdx40vR.png?r=08d&type=default" width="356" alt="Anas Siddiqui's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anassiddiqui18&label=Profile%20views&color=0e75b6&style=flat" alt="anassiddiqui18" /> </p>
 
