@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **anassiddiqui0910@gmail.com**
 
-<a href="https://app.daily.dev/anassiddiqui18"><img src="https://api.daily.dev/devcards/v2/YhoSvqiCHEBD1LGdx40vR.png?r=08d&type=default" width="356" alt="Anas Siddiqui's Dev Card"/></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anassiddiqui18&label=Profile%20views&color=0e75b6&style=flat" alt="anassiddiqui18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anassiddiqui18" alt="anassiddiqui18" /></a> </p>
@@ -32,5 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anassiddiqui18&show_icons=true&locale=en&layout=compact" alt="anassiddiqui18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anassiddiqui18&show_icons=true&locale=en" alt="anassiddiqui18" /></p>
+
+<a href="https://app.daily.dev/anassiddiqui18"><img src="https://api.daily.dev/devcards/v2/YhoSvqiCHEBD1LGdx40vR.png?r=08d&type=default" width="356" alt="Anas Siddiqui's Dev Card"/></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anassiddiqui18&" alt="anassiddiqui18" /></p>
