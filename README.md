@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 💬 Ask me about **TailwindCss, Css, Chakra,**
+- 💬 Ask me about **MERN / Next.js**
 
 - 📫 How to reach me **anassiddiqui0910@gmail.com**
 
